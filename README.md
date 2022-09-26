@@ -1,0 +1,1 @@
+![selective-outline](./pseudo-highreso-dot.gif)
